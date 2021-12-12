@@ -1,0 +1,30 @@
+body{
+    margin: 50px 100px 50px 100px;
+    font-size: 18px;
+    font-family: 'Balsamiq Sans';
+    color: white;
+    background-color: #05a3ff;
+}
+
+h1{
+    color:#000000;
+    text-align: center;
+}
+
+#jl{
+    text-align: center;
+    
+    
+
+}
+#alinhamento{
+    float: right;
+    width: 25%;
+    height: 25%;
+    margin: 2em;
+    
+
+}
+
+
+
